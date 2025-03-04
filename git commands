@@ -1,0 +1,15 @@
+
+-------------------------------------Git --------------------------------------------------------
+
+git config --global user.name "username"
+git config --global user.password "password"
+git config --global user.email "email"
+git config --list
+git branch
+git checkout branchName
+git status
+git add fileName
+git commit -m"Message"
+git push
+git fetch
+
