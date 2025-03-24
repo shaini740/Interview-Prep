@@ -1,0 +1,12 @@
+Create a Repository
+Navigate to the Path
+git init
+git add .
+git commit -m"Message"
+create a repo in github and copy the repo url
+add remote repo
+git remote add origin url
+git branch -M main
+git fetch
+git pull origin main --rebase
+git push origin main
